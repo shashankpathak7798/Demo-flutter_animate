@@ -1,15 +1,23 @@
 # next_gen_ui
 
-A new Flutter project.
+Flutter Project for a game intro UI
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+This project is a Flutter application that demonstrates use of flutter_animate package.
 
-A few resources to get you started if this is your first Flutter project:
+Here are some snapshots of what the ui looks like with a small clip demonstrating the whole UI:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+
+![screenshot-1](https://github.com/shashankpathak7798/Demo-flutter_animate/assets/75470416/54ddfa2c-85b2-4ed8-9a2d-3efe25ff1d18)
+![screenshot-2](https://github.com/shashankpathak7798/Demo-flutter_animate/assets/75470416/6cd450da-fa0b-443c-8110-82a983bb1dae)
+![screenshot-3](https://github.com/shashankpathak7798/Demo-flutter_animate/assets/75470416/f8330b28-504c-4e37-b933-994f4aad8ec8)
+
+
+https://github.com/shashankpathak7798/Demo-flutter_animate/assets/75470416/d20f0f50-0431-404d-b7be-c97f5f14ebc5
+
+Reference to flutter_animate package:
+https://pub.dev/packages/flutter_animate
 
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
